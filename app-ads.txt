@@ -1,8 +1,4 @@
-# SubaSobo: Jelly 2048 Merge (com.goldenbiz.subasobo.jelly2048)
-# Google AdMob
 google.com, pub-9762674523813467, DIRECT, f08c47fec0942fa0
-
-# Unity Ads & Unity LevelPlay (ironSource)
 unity.com, 7972216576038, DIRECT, 96cabb5fbdde37a7
 unity3d.com, 7972216576038, DIRECT, 96cabb5fbdde37a7
 ironsrc.com, 294094805, DIRECT
