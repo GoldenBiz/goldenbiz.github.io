@@ -6,6 +6,7 @@ unity3d.com, 5102690, DIRECT, 96cabb5fbdde37a7
 unity.com, 7972216576038, DIRECT, 96cabb5fbdde37a7
 unity3d.com, 7972216576038, DIRECT, 96cabb5fbdde37a7
 ironsrc.com, 294094805, DIRECT
+facebook.com, 101110480805290, DIRECT, c3e20eee3f780d68
 smartadserver.com, 4525, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 4610, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 5828, RESELLER, 060d053dcf45cbf3
